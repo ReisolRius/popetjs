@@ -187,6 +187,7 @@ a:hover {
     top: 45px;
     left: 68px;
     transition: .3s;
+    z-index: 1000;
 }
 
 .char__img {
